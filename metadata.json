@@ -1,0 +1,6 @@
+{
+  "name": "HerWay - Women's Safe Travel & Guardian Network",
+  "description": "Peer-verified safe homestays, curated women's group tours, hyper-local verified guardian network, and 112 emergency dispatch for solo female travelers in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
